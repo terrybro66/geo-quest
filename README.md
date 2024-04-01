@@ -2,7 +2,11 @@ Create an "Explore and Collect" game using Deck.gl for geospatial visualization,
 
 ## Step 1: Initialize the Project
 Action: Create a new directory for your project and initialize it with npm or yarn. Set up a .gitignore file to exclude node_modules or other non-essential files. Add client directory with npx create-react-app and server directory for the backend
-### Commit Message: <span style="color: red;">"Initialize project and configure .gitignore"</span>
+### Commit Message: 
+
+```html
+<span style="color: red;">"Initialize project and configure .gitignore"</span>
+```
 
 ## Step 2: Install Dependencies
 Action: Install necessary packages like deck.gl, @deck.gl/react, react-map-gl, mapbox-gl,  express, pg, axios and any other dependencies you might need.
